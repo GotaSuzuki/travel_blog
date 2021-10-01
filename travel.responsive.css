@@ -1,0 +1,61 @@
+@media(min-width:600px) {
+
+.all{
+  width: 100%;
+}
+
+.header img{
+  padding-left: 10%;
+}
+
+.header ul{
+  padding-left: 10%;
+}
+
+.article{
+  display: flex;
+  width: 80%;
+}
+
+.article-2{
+  margin: 0 3%;
+}
+
+.content{
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.pick-up{
+  width: 65%;
+  margin-left: 0;
+}
+
+.sub{
+  width: 35%;
+  margin-top: 60px;
+}
+.profile-img img{
+  transform: scale(1.5);
+}
+
+.about-tag{
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.menu{
+  padding: 0 5%;
+}
+
+.about-link{
+  margin-top: 30px;
+}
+
+.about-link dd{
+  margin-bottom: 5px;
+}
+
+}
